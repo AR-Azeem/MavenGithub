@@ -1,6 +1,1 @@
-<html>
-<body>
-<h2>Hello Azeem!</h2>
-<h1>Welcome to Jenkins Tutorials </h1>
-</body>
-</html>
+<p>hello User. Welcome to jenkins tutorials</p>
